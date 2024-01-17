@@ -10,7 +10,7 @@ offset = 20
 imgSize = 300
 folder = "Data/C"
 counter = 0
-labels = ["A", "B", "C"]
+labels = ["A", "B", "5"]
 while True:
     success, img = cap.read()
     imgOutput = img.copy()
